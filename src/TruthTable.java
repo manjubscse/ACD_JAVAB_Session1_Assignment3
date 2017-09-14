@@ -2,7 +2,7 @@
 import java.util.Scanner;
 public class TruthTable {
 
-	//main method 
+	//main method of class Truth table
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//Declare variable type integer for Bitwise AND Operation
